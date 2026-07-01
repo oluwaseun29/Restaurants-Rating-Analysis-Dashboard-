@@ -16,6 +16,8 @@ Provide recommendations for restaurant owners and investors.
 
 📊 Dashboard Overview
 
+<img width="1222" height="670" alt="17829451118822925913626158960315" src="https://github.com/user-attachments/assets/0ac903b9-ba89-46d3-a483-4a2dd64000f2" />
+
 The dashboard contains the following sections:
 Restaurant Rating Analysis
 Customer Demographics Analysis
