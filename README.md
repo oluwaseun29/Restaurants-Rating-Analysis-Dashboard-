@@ -15,6 +15,8 @@ Discover demand and supply gaps across cuisines.
 Provide recommendations for restaurant owners and investors.
 
 📊 Dashboard Overview
+<img width="1171" height="637" alt="17829451925404639423109328781727" src="https://github.com/user-attachments/assets/627f8df4-58fb-4763-b83d-4a0561538f96" />
+
 
 <img width="1222" height="670" alt="17829451118822925913626158960315" src="https://github.com/user-attachments/assets/0ac903b9-ba89-46d3-a483-4a2dd64000f2" />
 
