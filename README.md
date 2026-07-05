@@ -16,6 +16,8 @@ Provide recommendations for restaurant owners and investors.
 
 📊 Dashboard Overview
 
+<img width="1209" height="670" alt="17832648598766198272180690063446" src="https://github.com/user-attachments/assets/67b71f9a-7ccb-484d-a549-40e854f0db1e" />
+
 
 
 The dashboard contains the following sections:
