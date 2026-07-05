@@ -15,17 +15,8 @@ Discover demand and supply gaps across cuisines.
 Provide recommendations for restaurant owners and investors.
 
 📊 Dashboard Overview
-<img width="1171" height="637" alt="17829451925404639423109328781727" src="https://github.com/user-attachments/assets/627f8df4-58fb-4763-b83d-4a0561538f96" />
 
 
-<img width="1222" height="670" alt="17829451118822925913626158960315" src="https://github.com/user-attachments/assets/0ac903b9-ba89-46d3-a483-4a2dd64000f2" />
-
-<img width="1174" height="688" alt="1782945278982106811123590394274" src="https://github.com/user-attachments/assets/cb8b39b9-e641-425a-ae88-5ef64f49bb0d" />
-
-<img width="1216" height="688" alt="17829453459482730500413142045264" src="https://github.com/user-attachments/assets/29364ff2-fb15-4545-9e14-557283adbcdd" />
-
-
-<img width="1207" height="679" alt="17829454005935619568957147193537" src="https://github.com/user-attachments/assets/daad9615-ff08-48c2-ba9c-73f1f3455aa6" />
 
 The dashboard contains the following sections:
 Restaurant Rating Analysis
